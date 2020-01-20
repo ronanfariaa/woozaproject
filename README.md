@@ -8,7 +8,7 @@ Inicializando o Projeto -
 
 -- 2 Entrar dentro da pasta backend e executar o comando
 
-####  npm install
+####  yarn install
 
 -- 3 Inicializar o serviço da API
 
@@ -18,10 +18,10 @@ Apos o start do serviço, entrar na pasta (projetowooza) e executar os comando a
 
 -- 4 na raiz do projeto executar o comando
 
-####  npm install
+####  yarn install
 
 -- 5 Apos o termino da instalação executar o comando
 
-####  npm start
+####  yarn start
 
 
