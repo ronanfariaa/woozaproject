@@ -14,7 +14,7 @@ Inicializando o Projeto -
 
 ####  yarn dev
 
-Apos o start do serviço, entrar na pasta principal do projeto e executar os comando a baixo:
+Apos o start do serviço, entrar na pasta (projetowooza) e executar os comando a baixo:
 
 -- 4 na raiz do projeto executar o comando
 
