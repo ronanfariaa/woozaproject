@@ -3,7 +3,7 @@
 Projeto de cadastro e listagem de Devs, consumindo dados do GitHub e verificando latitude e longitude para uma futura geolocalização.
 
 
-####- Inicializando o Projeto:
+#### - Inicializando o Projeto:
 
 
 1 - Clonar todo o projeto;
@@ -17,7 +17,7 @@ Projeto de cadastro e listagem de Devs, consumindo dados do GitHub e verificando
 ####  yarn dev
 
 
-#####- Após a inicialização do serviço, clonar o diretório "projetowooza" e executar os comando abaixo:
+##### - Após a inicialização do serviço, clonar o diretório "projetowooza" e executar os comando abaixo:
 
 
 4 - Na raiz do "projetowooza", executar o comando:
