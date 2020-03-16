@@ -23,7 +23,7 @@ Projeto de cadastro e listagem de Devs, consumindo dados do GitHub e verificando
 ##### - Após a inicialização do serviço, clonar o diretório "projetowooza" e executar os comando abaixo:
 
 
-4 - Na raiz do "projetoLest", executar o comando:
+4 - Na raiz do "projetolest", executar o comando:
 
 
 ####  yarn install
